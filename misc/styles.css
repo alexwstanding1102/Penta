@@ -1,1 +1,6 @@
-
+    .all-browsers {
+    margin: 0;
+    padding: 50px;
+    border-radius:25px ;
+    background-color: rgb(34, 34, 41);
+    }
