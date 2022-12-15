@@ -23,6 +23,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: rgb(54,54,61);
+  border-radius:25px ;
 }
 
 li {
@@ -38,4 +39,5 @@ li a {
 
 li a:hover {
   background-color: rgb(64,64,71);
+  border-radius:25px ;
 }
