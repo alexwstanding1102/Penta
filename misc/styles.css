@@ -2,11 +2,11 @@
 margin: 0;
 padding: 50px;
 border-radius:25px ;
-background-color: rgb(34, 34, 41);
+background-color: rgb(34, 34, 51);
 }
 
 body {
-background-color:rgb(24, 24, 29);
+background-color:rgb(24, 24, 39);
 }
 
 * {color: rgb(200, 210, 227); font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
@@ -22,7 +22,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(34,34,41);
+  background-color: rgb(34,34,51);
   border-radius:15px ;
 }
 
@@ -38,6 +38,6 @@ li a {
 }
 
 li a:hover {
-  background-color: rgb(44,44,51);
+  background-color: rgb(44,44,61);
   border-radius:15px ;
 }
