@@ -4,6 +4,12 @@ padding: 50px;
 border-radius:25px ;
 background-color: rgb(34, 34, 51);
 }
+.all-browsers2 {
+margin: 0;
+padding: 50px;
+border-radius:25px ;
+background-color: rgb(44, 44, 61);
+}
 
 body {
 background-color:rgb(24, 24, 39);
