@@ -1,2 +1,13 @@
 <link rel="stylesheet" href="/assets/styles.css">
-<img src="https://pentaclips.com/img/pentaclogo.png" alt="logo" style="float:left;width:240px;height:58px;">
+
+<!-- This is the form for uploading a video -->
+<form id="upload-form" method="post" enctype="multipart/form-data">
+  <input type="file" name="video" accept="video/*">
+  <input type="submit" value="Upload">
+</form>
+
+<!-- This is where the uploaded videos will be displayed -->
+<div id="videos">
+  <!-- Each video will be a div with a class of "video" -->
+</div>
+
