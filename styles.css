@@ -55,3 +55,20 @@
     sup   {color: rgb(102, 100, 119); font-family: 'Courier New', Courier, monospace;}
     h1   {color: rgb(255, 255, 255); font-family: Verdana, Geneva, Tahoma, sans-serif;}
     h3  {color: rgb(255, 255, 255); font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
